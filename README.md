@@ -1,5 +1,5 @@
 
-![Uploading naruto-naruto-dance.gif…]()
+![naruto-naruto-dance](https://github.com/user-attachments/assets/a4304be4-1ea0-4c83-ac2a-f43e4af5058b)
 
 <h1 align="center">Hi 👋, I'm Nanda Addi Wijaya</h1>
 <h3 align="center">Video Editor | Motion Graphics Designer | Videographer | Undergraduate at Universitas Negeri Malang</h3>
