@@ -1,4 +1,4 @@
-![Naruto Fading](https://media.tenor.com/Pe9R7WzZkIAAAAAC/fadding-naruto.gif)
+<div class="tenor-gif-embed" data-postid="9988329043105575213" data-share-method="host" data-aspect-ratio="0.917671" data-width="100%"><a href="https://tenor.com/view/fadding-naruto-gif-9988329043105575213">Fadding Naruto Sticker</a>from <a href="https://tenor.com/search/fadding-stickers">Fadding Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Nanda Addi Wijaya</h1>
 <h3 align="center">Video Editor | Motion Graphics Designer | Videographer | Undergraduate at Universitas Negeri Malang</h3>
