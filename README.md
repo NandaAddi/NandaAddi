@@ -14,6 +14,3 @@ Studying Educational Technology equips me with unique, deep insights into cognit
 
 ### Web Development Tech Stacks
 ![Web Dev Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,supabase,git,vscode)
-
-### Other Technologies & Ecosystems
-![Other Skills](https://skillicons.dev/icons?perline=9&i=nodejs,express,mongodb,mysql,postgres,npm,vercel)
