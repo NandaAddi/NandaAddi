@@ -17,11 +17,3 @@ Studying Educational Technology equips me with unique, deep insights into cognit
 
 ### Other Technologies & Ecosystems
 ![Other Skills](https://skillicons.dev/icons?perline=9&i=nodejs,express,mongodb,mysql,postgres,npm,vercel)
-
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NandaAddi&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaAddi&card_width=495&langs_count=7&layout=compact&theme=tokyonight)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:16a34a&height=100&section=footer" />
