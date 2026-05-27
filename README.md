@@ -10,13 +10,13 @@ Studying Educational Technology equips me with unique, deep insights into cognit
 [![](https://img.shields.io/github/followers/NandaAddi?label=GitHub%20Followers&color=green)](https://github.com/NandaAddi)
 
 ### Core Creative Tech Stacks
-![Creative Skills](https://skillicons.dev/icons?i=pr,ae,ps,ai,figma,capcut)
+![Creative Skills](https://skillicons.dev/icons?i=pr,ae,ps,ai,figma)
 
 ### Web Development Tech Stacks
 ![Web Dev Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,supabase,git,vscode)
 
 ### Other Technologies & Ecosystems
-![Other Skills](https://skillicons.dev/icons?perline=9&i=nodejs,express,mongodb,mysql,postgres,npm,yarn,bun,vercel)
+![Other Skills](https://skillicons.dev/icons?perline=9&i=nodejs,express,mongodb,mysql,postgres,npm,vercel)
 
 ### Statistics
 
