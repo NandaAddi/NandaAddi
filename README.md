@@ -11,6 +11,3 @@ Studying Educational Technology equips me with unique, deep insights into cognit
 
 ### Core Creative Tech Stacks
 ![Creative Skills](https://skillicons.dev/icons?i=pr,ae,ps,ai,figma)
-
-### Lagi Belajar
-![Web Dev Skills](https://skillicons.dev/icons?i=python)
